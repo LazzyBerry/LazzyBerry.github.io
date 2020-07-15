@@ -1,3 +1,4 @@
+![プロフィール写真](dolfon.png)
 
 # About
 LazzyBerryです！
