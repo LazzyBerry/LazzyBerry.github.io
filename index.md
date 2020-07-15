@@ -8,3 +8,13 @@ LazzyBerryです！
 - LazzyBerry
 - Japan
 - C++,3DCG,UE4
+
+# Skills
+- Windows,Ubuntu
+- C,C++,C#,Xaml
+- UE4
+- Git
+- FE,CGエンジニア検定,UML
+
+# Works
+ -[GitHub](https://github.com/LazzyBerry)
